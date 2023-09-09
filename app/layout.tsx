@@ -14,8 +14,8 @@ import "./globals.css";
 const font = Figtree({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Spotify Clone",
-  description: "Spotify Clone",
+  title: "Sound Stream",
+  description: "Sound Stream",
 };
 
 export const revalidate = 0;
